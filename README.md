@@ -15,4 +15,4 @@ A modern, responsive web page layout built using **HTML5** and **Bootstrap 5**.
 ## ⚙️ Installation / Usage
 1. Clone the repository:
 ```bash
-git clone https://AmirHossain-hub/Second-Bootstrap-Project.git
+git clone https://AmirHossain-hub/Responsive-Layout.git
